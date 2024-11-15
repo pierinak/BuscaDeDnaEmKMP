@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import webbrowser
 import time
-import subprocess
+
 
 # Função que calcula o maior prefixo que é igual ao sufixo
 def maiorPrefSufProprio(cadeia):
