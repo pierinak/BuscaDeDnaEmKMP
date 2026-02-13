@@ -33,7 +33,7 @@ pip install matplotlib
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/BuscaDeDnaEmKMP.git
+git clone https://github.com/pierinak/BuscaDeDnaEmKMP.git
 cd BuscaDeDnaEmKMP
 ```
 
